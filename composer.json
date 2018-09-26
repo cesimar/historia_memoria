@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vrana/notorm": "dev-master",
+        "mikecao/flight": "^1.3"
+    }
+}

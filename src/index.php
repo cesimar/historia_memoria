@@ -1,14 +1,15 @@
 <?php
 
+require "../vendor/autoload.php";
 
 /**
  * Incluindo a Framework Flight
  */
-include './core/flight/Flight.php';
+// require 'flight/Flight.php';
 /**
  * Incluindo a Biblioteca ORM - NotORM
  */
-include './core/db/NotORM.php';
+// include "NotORM.php";
 
 /**
  * Modelo de link para consulta nas requisições
